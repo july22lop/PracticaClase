@@ -1,0 +1,9 @@
+C:\Users\MINEDUCYT\Desktop\POO\Clase\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\POO\Clase\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\MINEDUCYT\Desktop\POO\Clase\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\POO\Clase\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\POO\Clase\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\POO\Clase\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vistas.Estudiante.resources
+C:\Users\MINEDUCYT\Desktop\POO\Clase\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vistas.MenuAplicacion.resources
+C:\Users\MINEDUCYT\Desktop\POO\Clase\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vistas.Venta.resources
+C:\Users\MINEDUCYT\Desktop\POO\Clase\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vistas.FrmSuma.resources
